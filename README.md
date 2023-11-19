@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/yael.andrew2?locale=es_la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yael.andrew2?locale=es_la" height="30" width="40" /></a>
+<a href="[https://fb.com/https://www.facebook.com/yael.andrew2?locale=es_la](https://www.facebook.com/Yael.andrew2/?locale=es_la)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yael.andrew2?locale=es_la" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
